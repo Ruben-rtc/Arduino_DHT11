@@ -10,6 +10,8 @@ Voici Un guide complet de l'installation à la programmation pour savoir à comb
 
 ## Table des matières
 
+* [📖 Introduction](README.md)
+
 ### Démarrage
 * [1. Installer le logiciel Arduino IDE](1_Installation_Arduino_IDE.md)
 

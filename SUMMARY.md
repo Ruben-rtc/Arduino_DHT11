@@ -11,13 +11,13 @@ Voici Un guide complet de l'installation à la programmation pour savoir à comb
 ## Table des matières
 
 ### Démarrage
-* [1. Installer le logiciel Arduino IDE](1.%20Installer%20le%20logiciel%20Arduino%20IDE.md)
+* [1. Installer le logiciel Arduino IDE](1_Installation_Arduino_IDE.md)
 
 ### Configuration matérielle
-* [2. Connecter et alimenter le DHT11](2.%20%20Connecter%20et%20alimenter%20le%20DHT11.md)
+* [2. Connecter et alimenter le DHT11](2_Configuration_DHT11.md)
 
 ### Configuration logicielle
-* [3. Configuration Arduino IDE & programmation](Lire%20l'humidité%20et%20la%20température%20sur%20Arduino%20avec%20un%20DHT11.md)
+* [3. Configuration Arduino IDE & programmation](3_Programmation_Arduino.md)
 
 ---
 

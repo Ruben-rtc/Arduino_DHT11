@@ -1,4 +1,4 @@
-# 3️⃣ Configuration Arduino IDE & Programmation
+# 3️ Configuration Arduino IDE & Programmation
 
 ## 3.1 Installer la Carte Arduino UNO
 
@@ -69,9 +69,9 @@ void loop() {
 }
 ```
 
-### 🔍 Explication du Code :
+### 🔍 Pourquoi le pin 2 ?
 
-La ligne clé est :
+Une ligne clé est celle-ci :
 
 ```cpp
 DHT11 dht11(2);
@@ -87,13 +87,13 @@ Cela dit à Arduino de lire les données sur le **pin digital 2** (D2), ce que n
 
 Maintenant que tout est mis en place, nous pouvons faire un test pour vérifier si on peut lire les informations du DHT11.
 
-### 📤 Upload du Code
+### Upload du Code
 
 Il faut **upload** le code pour le compiler et l'envoyer sur l'Arduino :
 
 ![Bouton Upload](Assets/Pasted%20image%2020260116095942.png)
 
-### 📊 Afficher le Serial Monitor
+### Afficher le Serial Monitor
 
 Pour voir les résultats affichés en temps réel, affiche le **Serial Monitor** :
 

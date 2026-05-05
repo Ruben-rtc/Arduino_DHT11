@@ -14,7 +14,7 @@ La première étape est de télécharger et installer **Arduino IDE**, l'environ
 3. **Lance l'installateur** et suis les instructions
 4. **Ouvre Arduino IDE** une fois l'installation terminée
 
-### 🎯 Résultat :
+### Résultat :
 
 Tu devrais voir l'interface d'Arduino IDE qui ressemble à ceci :
 

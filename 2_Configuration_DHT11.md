@@ -1,6 +1,6 @@
-# 2️⃣ Connecter et Alimenter le DHT11
+# 2️ Connecter et Alimenter le DHT11
 
-## 📊 Composants Nécessaires
+## Composants Nécessaires
 
 Pour ce projet de **station météo intelligente (Smart Plante)**, voici ce dont tu as besoin :
 
@@ -14,7 +14,7 @@ Pour ce projet de **station météo intelligente (Smart Plante)**, voici ce dont
 
 ---
 
-## 🔧 Schéma du Composant DHT11
+## Schéma du Composant DHT11
 
 Avant de brancher, voici à quoi ressemble le capteur :
 
@@ -41,7 +41,7 @@ Voici un exemple de configuration avec un Arduino UNO :
    - **GND** → Rail - (GND)
    - **DATA** → **D2** de l'Arduino
 
-### 📋 Table de Branchement :
+### Table de Branchement :
 
 | Broche DHT11 | Arduino UNO | Arduino MKR WiFi 1010 |
 |--------------|-------------|----------------------|

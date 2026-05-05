@@ -6,11 +6,11 @@ Salut à toi, débutant en Arduino ! Tu es au bon endroit pour apprendre à conf
 
 Voici un guide complet de l'installation à la programmation pour savoir à combien se mesure la température exactement là où vous êtes.
 
-> **Vous commencez à zéro et finissez en héros.** 🦸
+> **Commence à zéro et finit en héros !** 🦸
 
 ---
 
-## 🎯 Qu'est-ce que tu vas apprendre ?
+## Qu'est-ce que tu vas apprendre ?
 
 Ce manuel te guidera pas à pas pour :
 
@@ -20,17 +20,16 @@ Ce manuel te guidera pas à pas pour :
 
 ---
 
-## 🚀 Pour Qui ?
+## Pour Qui ?
 
 Ce guide est parfait pour :
 - 🤓 Les débutants en Arduino et électronique
 - 🛠️ Ceux qui veulent faire des projets IoT
 - 🌱 Les passionnés d'automatisation domotique
-- 📊 Les créateurs de stations météo intelligentes
 
 ---
 
-## 📚 Contenu du Guide
+## Contenu du Guide
 
 Le manuel est divisé en **3 sections clés** :
 
@@ -40,7 +39,7 @@ Le manuel est divisé en **3 sections clés** :
 
 ---
 
-## 💡 Cas d'Usage
+## Cas d'Usage
 
 Avec ce que tu vas apprendre, tu pourras créer :
 
@@ -51,13 +50,13 @@ Avec ce que tu vas apprendre, tu pourras créer :
 
 ---
 
-## ⏱️ Durée
+##  Durée
 
-⏱️ **~1h30** pour compléter tout le guide en fonction de ton expérience.
+⏱️ **~15-20 min** pour compléter tout le guide
 
 ---
 
-## 🎓 Prérequis
+## Prérequis
 
 - Un ordinateur (Windows, Mac, Linux)
 - Un Arduino UNO (ou compatible)
@@ -67,7 +66,7 @@ Avec ce que tu vas apprendre, tu pourras créer :
 
 ---
 
-## 🏁 C'est Parti !
+## C'est Parti !
 
 Tu es prêt ? **Commençons par l'installation d'Arduino IDE !** ↓
 

@@ -1,12 +1,12 @@
-# 3️ Configuration Arduino IDE & Programmation
+# 3. Configuration Arduino IDE & programmation
 
 ## 3.1 Installer la Carte Arduino UNO
 
 Dans Arduino IDE, la première étape consiste à installer la carte **Arduino UNO**. Cela permet au logiciel de la reconnaître correctement et de pouvoir compiler puis téléverser du code dessus par la suite.
 
-![Installation Arduino UNO](Assets/Pasted%20image%2020260504152346.png)
+![Installation Arduino UNO](<.gitbook/assets/Pasted image 20260504152346.png>)
 
----
+***
 
 ## 3.2 Installer une Librairie du Composant DHT11
 
@@ -16,9 +16,9 @@ Installer les librairies permet à Arduino IDE de compiler correctement le code 
 
 Pour le composant DHT11, nous avons choisi d'installer la **librairie de Dhruba Saha** :
 
-![Librairie DHT11](Assets/Pasted%20image%2020260116091738.png)
+![Librairie DHT11](<.gitbook/assets/Pasted image 20260116091738.png>)
 
----
+***
 
 ## 3.3 Charger un Exemple de Code
 
@@ -29,7 +29,7 @@ Pour trouver un exemple de code afin de lire les données du DHT11, nous allons 
 1. Appuie sur les **3 petits points** (more actions)
 2. Puis dans **Example** choisis **ReadTempAndHumidity**
 
-![Menu Examples Arduino IDE](Assets/Pasted%20image%2020260504152906.png)
+![Menu Examples Arduino IDE](<.gitbook/assets/Pasted image 20260504152906.png>)
 
 Cela ouvre un fichier `.ino` dans Arduino IDE. Voici le code C/C++ (utilisé en électronique embarquée) :
 
@@ -79,9 +79,9 @@ DHT11 dht11(2);
 
 Cela dit à Arduino de lire les données sur le **pin digital 2** (D2), ce que nous avons déjà configuré dans le branchement matériel.
 
-![Vérification du branchement](Assets/Pasted%20image%2020260116160241.png)
+![Vérification du branchement](<.gitbook/assets/Pasted image 20260116160241.png>)
 
----
+***
 
 ## 3.4 Tester le Capteur
 
@@ -91,34 +91,34 @@ Maintenant que tout est mis en place, nous pouvons faire un test pour vérifier 
 
 Il faut **upload** le code pour le compiler et l'envoyer sur l'Arduino :
 
-![Bouton Upload](Assets/Pasted%20image%2020260116095942.png)
+![Bouton Upload](<.gitbook/assets/Pasted image 20260116095942.png>)
 
 ### Afficher le Serial Monitor
 
 Pour voir les résultats affichés en temps réel, affiche le **Serial Monitor** :
 
-![Menu Serial Monitor](Assets/Pasted%20image%2020260116110944.png)
+![Menu Serial Monitor](<.gitbook/assets/Pasted image 20260116110944.png>)
 
 ### ✅ Résultat Final
 
 Si tout fonctionne bien, tu devrais voir des données apparaître dans le Serial Monitor :
 
-![Données du DHT11 en temps réel](Assets/Pasted%20image%2020260116111136.png)
+![Données du DHT11 en temps réel](<.gitbook/assets/Pasted image 20260116111136.png>)
 
 **Bonne nouvelle, le DHT11 marche parfaitement !** 🎉
 
 Tu vois maintenant la température et l'humidité en temps réel. Ces données peuvent maintenant être utilisées pour :
-- 📱 Afficher sur un écran LCD/TFT
-- ☁️ Envoyer vers le cloud (IoT)
-- 🤖 Déclencher des actions automatiques
 
----
+* 📱 Afficher sur un écran LCD/TFT
+* ☁️ Envoyer vers le cloud (IoT)
+* 🤖 Déclencher des actions automatiques
+
+***
 
 ## 🎓 Prochaines Étapes
 
-Félicitations ! Tu as réussi à :
-✅ Installer Arduino IDE  
-✅ Brancher le DHT11  
-✅ Programmer et tester le capteur  
+Félicitations ! Tu as réussi à : ✅ Installer Arduino IDE\
+✅ Brancher le DHT11\
+✅ Programmer et tester le capteur
 
 **Tu es maintenant prêt pour des projets plus avancés !**
